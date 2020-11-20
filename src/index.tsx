@@ -27,7 +27,7 @@ import {
   TagCloseButton,
   TagLabel,
   TagProps
-} from '@chakra-ui/core'
+} from '@chakra-ui/react'
 
 interface ILabelProps {
   isInvalid?: boolean
